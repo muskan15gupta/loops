@@ -1,3 +1,5 @@
+//inverted pyramid
+
 #include<iostream>
 using namespace std;
 
