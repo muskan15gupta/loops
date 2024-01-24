@@ -1,3 +1,5 @@
+// rows and columns "*" pattern
+
 #include<iostream>
 using namespace std;
 
