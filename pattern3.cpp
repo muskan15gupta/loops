@@ -1,3 +1,5 @@
+// continuous array
+
 #include<iostream>
 using namespace std;
 
